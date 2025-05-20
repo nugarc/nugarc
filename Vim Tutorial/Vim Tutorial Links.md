@@ -1,6 +1,7 @@
 ## The following are links for learning vim
 * vimTutor file: <https://gist.github.com/hashrocketeer/852a4f878acd42abbf98f18278329bdc#file-vimtutor-txt>
-* other file like vim Tutor <https://vimhelp.org/usr_02.txt.html>
+* Vim help is also a great resource: <https://vimhelp.org/>
+  * VimHelp file to get started: <https://vimhelp.org/usr_02.txt.html>
 
 ### Ones I have found (not nesicarily vetted)
 * <http://vimgenius.com/start>
